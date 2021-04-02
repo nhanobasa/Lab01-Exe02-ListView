@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab01-Exe02-ListView</string>
+    <string-array name="image">
+        <item></item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
